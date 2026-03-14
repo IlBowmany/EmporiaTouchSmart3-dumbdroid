@@ -21,10 +21,12 @@ This way the APK should be installed. Using Activity Launcher, open the Aurora S
 
 After opening Aurora store... Well, we are basically done! Using it, install your favourite launcher (I recommend you [LawnChair](https://play.google.com/store/apps/details?id=app.lawnchair.play&hl=it) since it got everything we need like notification dots, it is light on resources and very nice to look at), open it, using the internal options make it your default one, and that's it! Your phone is now a proper Android Dumbphone, or a DumbDroid. But it's not over yet.
 
-We need and want to remove various bloat the phone have. And for this, we will use the [Universal Debloater](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation). Download it on your PC, open it, make sure it can find the Emporia phone, and start removing all recommended stuff. Nothing worthy of stays is there, so you can just go and remove all. After this, switch to the Advanced mode in the program, and search for "Emporia". Remove all the Emporia apps except for the updater, since it is the only one that can be useful.
+We need and want to remove various bloat the phone have. And for this, we will use the [Universal Debloater](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation). Download it on your PC, open it, make sure it can find the Emporia phone, and start removing all recommended stuff. Nothing worthy of stays is there, so you can just go and remove all. After this, switch to the All Removals mode in the program, and search for "Emporia". Remove all the Emporia apps except for the updater, since it is the only one that can be useful.
 
 Now the phone should be pretty much ready to go. If you want to enable the status bar, we can do a funny trick for it. Go into Development options using Activity Launcher, search for the "Drawing" option, and choose the one you prefer. This will create a virtual Notch, which isn't so good looking (I will update this guide when I find a proper and better solution), but at least in this way we can have the status bar always on screen. If you want to enable more status bar icons (like the percentage near the battery icons), install and use an app like [System UI Tuner](https://play.google.com/store/apps/details?id=com.bryancandi.android.uituner&hl=it). 
 
-TO BE CONTINUED
+If you need a better physical keyboard handler, use [this](https://play.google.com/store/apps/details?id=io.github.sspanak.tt9)
+
+For general app usage, I reccomend the [Fossify](https://play.google.com/store/apps/dev?id=7297838378654322558&hl=it) apps, they work like a charm, and for camera, use [OpenCamera](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera&hl=it).
 
 
