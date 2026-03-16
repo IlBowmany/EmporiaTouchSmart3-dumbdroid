@@ -27,8 +27,8 @@ Now the phone should be pretty much ready to go. If you want to enable the statu
 
 If you need a better physical keyboard handler, use [this](https://play.google.com/store/apps/details?id=io.github.sspanak.tt9)
 
-For general app usage, I reccomend the [Fossify](https://play.google.com/store/apps/dev?id=7297838378654322558&hl=it) apps, they work like a charm, and for camera, use [OpenCamera](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera&hl=it).
+For general app usage, I reccomend the [Fossify](https://play.google.com/store/apps/dev?id=7297838378654322558&hl=it) apps, and for camera, use [OpenCamera](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera&hl=it).
 
-For GPS and location services, [Google Maps GO](https://play.google.com/store/apps/details?id=com.google.android.apps.mapslite&hl=it) works crazy good.
+For GPS and location services, [Google Maps GO](https://play.google.com/store/apps/details?id=com.google.android.apps.mapslite&hl=it).
 
-If you need a better internet browser, every one of the bigger ones should work the same (I only tested [WaterFox](https://play.google.com/store/apps/details?id=net.waterfox.android.release&hl=it) and it works like a charm)
+If you need a better internet browser, every one of the bigger ones should work the same (I only tested [WaterFox](https://play.google.com/store/apps/details?id=net.waterfox.android.release&hl=it))
