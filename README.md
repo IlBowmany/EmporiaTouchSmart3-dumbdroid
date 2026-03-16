@@ -29,6 +29,6 @@ If you need a better physical keyboard handler, use [this](https://play.google.c
 
 For general app usage, I reccomend the [Fossify](https://play.google.com/store/apps/dev?id=7297838378654322558&hl=it) apps, and for camera, use [OpenCamera](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera&hl=it).
 
-For GPS and location services, [Google Maps GO](https://play.google.com/store/apps/details?id=com.google.android.apps.mapslite&hl=it).
+For GPS and location services, [GMaps WV](https://f-droid.org/packages/us.spotco.maps/).
 
 If you need a better internet browser, every one of the bigger ones should work the same (I only tested [WaterFox](https://play.google.com/store/apps/details?id=net.waterfox.android.release&hl=it))
