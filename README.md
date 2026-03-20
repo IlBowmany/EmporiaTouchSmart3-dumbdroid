@@ -32,3 +32,14 @@ For general app usage, I reccomend the [Fossify](https://play.google.com/store/a
 For GPS and location services, [Organic Maps](https://f-droid.org/en/packages/app.organicmaps/).
 
 If you need a better internet browser, every one of the bigger ones should work the same (I only tested [WaterFox](https://play.google.com/store/apps/details?id=net.waterfox.android.release&hl=it))
+
+If you need to change the size of icons and interface, use the following ADB command (The default Emporia options are very limited):
+
+`adb shell wm density *A NUMBER BETWEEN 320 AND 200*`
+
+I recommend 250.
+
+if you want to reset the default density, just write
+
+`adb shell wm density reset`
+
