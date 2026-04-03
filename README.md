@@ -43,3 +43,5 @@ if you want to reset the default density, just write
 
 `adb shell wm density reset`
 
+I noticed that changing the size of the interface increases slightly the battery drain. For a better autonomy, I would suggest you to leave it default.
+
